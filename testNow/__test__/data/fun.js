@@ -1,0 +1,1 @@
+module.exporots=()=>'function run'
