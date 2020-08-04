@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/speak44/start-node/issues"
   },
-  "homepage": "https://github.com/speak44/start-node#readme"
+  "homepage": "https://github.com/speak44/start-node#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-session": "^6.0.0"
+  }
 }
