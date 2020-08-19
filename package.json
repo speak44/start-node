@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/speak44/start-node#readme",
   "dependencies": {
+    "co-redis": "^2.1.1",
+    "hiredis": "^0.5.0",
     "koa": "^2.13.0",
-    "koa-session": "^6.0.0"
+    "koa-redis": "^4.0.1",
+    "koa-session": "^6.0.0",
+    "redis": "^3.0.2"
   }
 }
